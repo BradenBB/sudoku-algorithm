@@ -1,0 +1,10 @@
+size,strategy,success_pct
+4,greedy,98.2
+4,dac,100.0
+4,dp,100.0
+9,greedy,51.6
+9,dac,100.0
+9,dp,100.0
+16,greedy,4.8
+16,dac,100.0
+16,dp,100.0
